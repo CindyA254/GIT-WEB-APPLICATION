@@ -1,0 +1,31 @@
+.patient{
+    color: black;
+    background: dodgerblue;
+    border:  2px black;
+    border-radius: 10px;
+    width: 350px;
+    height: 100vh;
+}
+
+body{
+    background:navajowhite;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.patient h1{
+    font-family: Bahnschrift;
+    color: maroon;
+    text-align: center;
+    text-decoration: underline;
+}
+input{
+    width: 70%;
+    position:relative;
+    margin: 10px 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: transparent;
+}
